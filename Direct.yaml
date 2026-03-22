@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,lmizhibo.com
   - DOMAIN-SUFFIX,netflixgc.com
   - DOMAIN-SUFFIX,jisuzyv.com
+    - DOMAIN-SUFFIX,dynv6.com
   
   # 新增的关键字匹配（域名中包含 twinkstar 即命中）
   - DOMAIN-KEYWORD,twinkstar
