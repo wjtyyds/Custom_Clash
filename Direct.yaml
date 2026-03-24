@@ -2,7 +2,7 @@ payload:
   # 之前指定的完整域名匹配
   - DOMAIN,e.bbydy.org
   - DOMAIN,zhuzhuzhu.whtjdasha.com
-  - DOMAIN,dyll.baipiaoyes.com
+  - DOMAIN,dy11.baipiaoyes.com
 
   # 新增的域名后缀匹配 (包含其所有子域名)
   - DOMAIN-SUFFIX,lmizhibo.com
