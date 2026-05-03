@@ -6,6 +6,7 @@ payload:
 
   # 新增的域名后缀匹配 (包含其所有子域名)
   - DOMAIN-SUFFIX,lmizhibo.com
+  - DOMAIN-SUFFIX,xcqrkj.com
   - DOMAIN-SUFFIX,netflixgc.com
   - DOMAIN-SUFFIX,jisuzyv.com
   - DOMAIN-SUFFIX,dynv6.com
