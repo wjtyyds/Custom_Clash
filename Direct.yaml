@@ -12,6 +12,9 @@ payload:
   - DOMAIN-SUFFIX,netflixgc.com
   - DOMAIN-SUFFIX,jisuzyv.com
   - DOMAIN-SUFFIX,dynv6.com
+  - DOMAIN-SUFFIX,ffzy888.com
+  - DOMAIN-SUFFIX,hxx2023.cc
+
 
   # 新增的关键字匹配
   - DOMAIN-KEYWORD,twinkstar
