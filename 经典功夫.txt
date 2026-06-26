@@ -1,7 +1,4 @@
 //以下线路地址全部收集自网络公开数据，一切免费，如有冒犯请联系我们删除；如产生责任须使用者自负！
-音乐1,https://vd2.bdstatic.com/mda-refjgvx7nhrha8js/cae_h264/1747403357338896764/mda-refjgvx7nhrha8js.mp4
-音乐2,https://vd2.bdstatic.com/mda-mhaargrart2qrkdz/1080p/cae_h264/1629630942996744682/mda-mhaargrart2qrkdz.mp4
-
 中央频道,#genre#
 CCTV1,http://go.bkpcp.top/mg/cctv1 
 CCTV2,http://go.bkpcp.top/mg/cctv2 
