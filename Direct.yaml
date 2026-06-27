@@ -1,5 +1,5 @@
 payload:
-  # 之前指定的完整域名匹配
+  # 之前指定的完整域名匹配 测试
   - DOMAIN,b.bbydy.org
   - DOMAIN,api3.nimenshishangdi.cc
   - DOMAIN,dy11.baipiaoyes.com
