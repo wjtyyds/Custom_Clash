@@ -5654,19 +5654,6 @@ CHC家庭影院,http://live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E
 阿坝州TV,http://live2.rxip.sc96655.com/live/abxwzhpdgq_2000.m3u8?E=&U=&A=&K=&P=&S=
 青羊电视,http://live2.rxip.sc96655.com/live/qyzh_4000.m3u8?E=&U=&A=&K=&P=&S=
 
-
-区控频道↑,#genre#
-大家在哪个地区,https://txmov2.a.kwimgs.com/bs3/video-hls/5259923078772081095_723300d247750eae_1684_hlsb.m3u8
-用什么网络,https://txmov2.a.kwimgs.com/bs3/video-hls/5259923078772081095_723300d247750eae_1684_hlsb.m3u8
-看各自分类,https://txmov2.a.kwimgs.com/bs3/video-hls/5259923078772081095_723300d247750eae_1684_hlsb.m3u8
-
-台可能不全,https://txmov2.a.kwimgs.com/bs3/video-hls/5259923078772081095_723300d247750eae_1684_hlsb.m3u8
-或者有失效,https://txmov2.a.kwimgs.com/bs3/video-hls/5259923078772081095_723300d247750eae_1684_hlsb.m3u8
-我这边也看不了,https://txmov2.a.kwimgs.com/bs3/video-hls/5259923078772081095_723300d247750eae_1684_hlsb.m3u8
-不知道能不能看,https://txmov2.a.kwimgs.com/bs3/video-hls/5259923078772081095_723300d247750eae_1684_hlsb.m3u8
-靠大家帮忙测试,https://txmov2.a.kwimgs.com/bs3/video-hls/5259923078772081095_723300d247750eae_1684_hlsb.m3u8
-
-
 咪咕移动,#genre#,
 
 咪咕视频1,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000001000005308/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
@@ -9018,5 +9005,3 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 深圳移动,http://47.108.20.161:8866/guangdong/shenzhen.php?id=szyd
 深圳宜和购物,http://47.108.20.161:8866/guangdong/shenzhen.php?id=szyh
 深圳国际,http://47.108.20.161:8866/guangdong/shenzhen.php?id=szgj
-
-
