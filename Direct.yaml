@@ -16,7 +16,7 @@ payload:
   - DOMAIN-SUFFIX,dynv6.com
   - DOMAIN-SUFFIX,ffzy888.com
   - DOMAIN-SUFFIX,hxx2023.cc
-
+  - DOMAIN-SUFFIX,njfhwl.com
 
   # 新增的关键字匹配
   - DOMAIN-KEYWORD,twinkstar
